@@ -1,4 +1,4 @@
-package me.gyenam05.usedbook.controller;
+package me.gyenam05.usedbook.book;
 
 import lombok.RequiredArgsConstructor;
 import me.gyenam05.usedbook.book.BookDetailResponseDto;
