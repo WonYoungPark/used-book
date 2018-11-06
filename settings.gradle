@@ -1,1 +1,5 @@
 rootProject.name = 'used-book'
+include 'used-book-common'
+include 'used-book-crawler'
+include 'used-book-scheduler'
+include 'used-book-api'
