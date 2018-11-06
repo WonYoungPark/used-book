@@ -19,7 +19,7 @@ subprojects {
 
     group = 'me.gyenam05.used-book'
     version = '0.0.1'
-    sourceCompatibility = 10
+    sourceCompatibility = 1.8
 
     repositories {
         mavenCentral()
